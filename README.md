@@ -28,7 +28,7 @@ Auto closes the window or press need button
 
 C:\temp\!comp!\img
 
-% Имя фалов скриншотов
+% Имя файлов скриншотов
 
 !title!
 
